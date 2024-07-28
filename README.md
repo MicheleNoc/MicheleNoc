@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left"> Mi chiamo Michele e sono uno sviluppatore Junior Full-stack Developer, vivo a Livorno, Toscana. </p>
 
 ###
 
