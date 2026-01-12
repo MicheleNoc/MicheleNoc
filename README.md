@@ -12,7 +12,7 @@
   <a href="https://michelenocchi.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-michelenocchi.com-blue?style=for-the-badge&logo=google-chrome" alt="Website" />
   </a>
-  <a href="https://www.linkedin.com/in/michele-nocchi-287563196 target="_blank">
+  <a href="https://www.linkedin.com/in/michele-nocchi-287563196/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
@@ -20,8 +20,6 @@
 ---
 
 ## 👨‍💻 About Me
-
-> *"Trasformo la caffeina in codice e idee in realtà digitale."*
 
 Ho iniziato a programmare durante le scuole superiori e da allora non ho più smesso. Sono un **appassionato autodidatta** sempre alla ricerca della prossima sfida. Attualmente sto approfondendo lo sviluppo Full-stack e Mobile, sperimentando ogni giorno con nuove tecnologie per creare interfacce utente fluide e backend robusti.
 
