@@ -12,7 +12,7 @@
   <a href="https://michelenocchi.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-michelenocchi.com-blue?style=for-the-badge&logo=google-chrome" alt="Website" />
   </a>
-  <a href="https://www.linkedin.com/in/michele-nocchi/" target="_blank">
+  <a href="https://www.linkedin.com/in/michele-nocchi-287563196 target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
@@ -64,15 +64,6 @@ Ecco gli strumenti e i linguaggi che utilizzo per dare vita ai miei progetti:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 ---
