@@ -80,9 +80,5 @@ Di giorno lavoro come sviluppatore full-stack su sistemi gestionali interni. Di 
 |----------|-------------|-------|
 | [SpendZen](https://spendzen.it) | Tracker spese e abbonamenti — 1K+ utenti attivi | Flutter, Swift, SwiftUI |
 | Homebase | Finanza personale & gestione casa | Next.js 15, Supabase, TypeScript |
-| MovieDNA | Tracciamento film personale | Swift, SwiftData |
-| Dotted | Heatmap annuale per habit tracking | Next.js |
 
 ---
-
-<p align="center"><i>Costruito con ❤️ da Michele Nocchi — Livorno, Italia</i></p>
