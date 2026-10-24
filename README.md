@@ -1,84 +1,92 @@
-<h1 align="center">Ciao, sono Michele! 👋</h1>
-<h3 align="center">Full-stack & Mobile Developer 🇮🇹</h3>
-<p align="center">📍 Livorno, Toscana</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://michelenocchi.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-michelenocchi.com-blue?style=for-the-badge&logo=google-chrome" />
-  </a>
-  <a href="https://www.linkedin.com/in/michele-nocchi-287563196/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://spendzen.it" target="_blank">
-    <img src="https://img.shields.io/badge/SpendZen-App-FF6B6B?style=for-the-badge&logo=appstore" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=FF6B6B&center=true&vCenter=true&width=620&lines=Ciao%2C+sono+Michele+%F0%9F%91%8B;Full-stack+%26+Mobile+Developer;Indie+hacker.+Product+builder." alt="Ciao, sono Michele" />
 
----
+### Costruisco prodotti, dal primo commit al primo utente.
 
-## 👨‍💻 About Me
+📍 Livorno, Toscana 🇮🇹
 
-Ho iniziato a programmare al liceo e da allora non mi sono più fermato. Sono un **autodidatta convinto**, sempre con troppi progetti in testa e mai abbastanza ore nella giornata.
+<a href="https://michelenocchi.com"><img src="https://img.shields.io/badge/Portfolio-michelenocchi.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/michele-nocchi-287563196/"><img src="https://img.shields.io/badge/LinkedIn-Michele_Nocchi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/MikeCodes97"><img src="https://img.shields.io/badge/X-@MikeCodes97-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://spendzen.it"><img src="https://img.shields.io/badge/SpendZen-1K%2B_utenti-FF6B6B?style=for-the-badge&logo=appstore&logoColor=white" /></a>
 
-Di giorno lavoro come sviluppatore full-stack su sistemi gestionali interni. Di sera (e nei weekend) costruisco prodotti miei: app mobile, webapp, automazioni, e tutto quello che mi incuriosisce.
-
-- 🚀 Ho pubblicato **[SpendZen](https://spendzen.it)** — un tracker di spese e abbonamenti per iOS e Android, con oltre **1.000 utenti attivi**
-- 🏗️ Sto costruendo **Homebase** — una webapp di finanza personale con Next.js 15, Supabase e TypeScript
-- 🎯 Mi identifico più con il concetto di *indie hacker* che con quello di developer tradizionale
-
----
-
-## 🛠 Tech Stack
-
-### Mobile
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart" />
-</div>
-
-### Frontend & Web
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind" />
-</div>
-
-### Backend & Database
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
-</div>
-
-### Tools & Infra
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 </div>
 
 ---
 
-## 🚢 Progetti
+## ⚡ In breve
 
-| Progetto | Descrizione | Stack |
-|----------|-------------|-------|
-| [SpendZen](https://spendzen.it) | Tracker spese e abbonamenti — 1K+ utenti attivi | Flutter, Swift, SwiftUI |
-| Homebase | Finanza personale & gestione casa | Next.js 15, Supabase, TypeScript |
+Sviluppatore **full-stack e mobile**, autodidatta dal liceo. Di giorno sviluppo sistemi gestionali interni con React e PHP. Il resto del tempo lo dedico ai miei prodotti: li progetto, li sviluppo, li pubblico e li faccio crescere.
+
+Non scrivo codice per il gusto di farlo: **lo uso per risolvere problemi reali e metterli in mano alle persone.**
+
+```ts
+const michele = {
+  ruolo: "Full-stack & Mobile Developer",
+  mindset: "indie hacker",
+  inProduzione: ["SpendZen — 1.000+ utenti attivi"],
+  inCostruzione: ["Homebase"],
+  focus: ["prodotti end-to-end", "UX curata", "automazioni"],
+};
+```
 
 ---
+
+## 🚢 Prodotti
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://spendzen.it">SpendZen</a></h3>
+      <p>Tracker di spese e abbonamenti per iOS e Android. Progettato, sviluppato e pubblicato in autonomia: <b>oltre 1.000 utenti attivi</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/status-live-2EA043?style=flat-square" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 Homebase</h3>
+      <p>Webapp di finanza personale e gestione della casa. Un unico posto per tenere sotto controllo conti, spese e tutto ciò che riguarda la vita domestica.</p>
+      <p>
+        <img src="https://img.shields.io/badge/status-in_sviluppo-D29922?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Stack
+
+| Area | Tecnologie |
+|------|------------|
+| **Mobile** | <img src="https://skillicons.dev/icons?i=swift,flutter,dart" /> |
+| **Frontend & Web** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" /> |
+| **Backend & Database** | <img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs,php" /> |
+| **Tools & Infra** | <img src="https://skillicons.dev/icons?i=docker,git,vscode" /> |
+
+<!--
+## 📊 Statistiche GitHub
+Sostituisci TUO-USERNAME con il tuo username GitHub e rimuovi i commenti.
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TUO-USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO-USERNAME&layout=compact&hide_border=true&theme=transparent" />
+</div>
+-->
+
+---
+
+<div align="center">
+
+**Hai un'idea, un progetto o una posizione aperta? Parliamone.**
+
+<a href="https://michelenocchi.com">michelenocchi.com</a> · <a href="https://www.linkedin.com/in/michele-nocchi-287563196/">LinkedIn</a> · <a href="https://x.com/MikeCodes97">X</a>
+
+</div>
