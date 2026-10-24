@@ -8,7 +8,6 @@
 
 <a href="https://michelenocchi.com"><img src="https://img.shields.io/badge/Portfolio-michelenocchi.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/michele-nocchi-287563196/"><img src="https://img.shields.io/badge/LinkedIn-Michele_Nocchi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/MikeCodes97"><img src="https://img.shields.io/badge/X-@MikeCodes97-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://spendzen.it"><img src="https://img.shields.io/badge/SpendZen-1K%2B_utenti-FF6B6B?style=for-the-badge&logo=appstore&logoColor=white" /></a>
 
 </div>
